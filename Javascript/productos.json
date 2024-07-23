@@ -141,6 +141,6 @@
         "id": 24, 
         "name": "Saint honore (profiteroles)", 
         "image": "../Multimedia/Imagenes/Tartas/creaciones/saint honore.png", 
-        "prices": { "small": 35, "medium": 42, "large": 51 } 
-    },
+        "prices": { "small": 35, "medium": 42, "large": 80 } 
+    }
 ]
