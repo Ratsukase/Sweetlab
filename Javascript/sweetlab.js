@@ -47,7 +47,7 @@ function loadProducts(products) {
 
     products.forEach(product => {
         const productCard = `
-            <div class="col-md-4 mb-4">
+            <div class="col-md-3 mb-4">
                 <div class="card">
                     <img src="${product.image}" class="card-img-top" alt="${product.name}">
                     <div class="card-body">
