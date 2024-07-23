@@ -52,5 +52,95 @@
         "name": "Tarta red velvet", 
         "image": "../Multimedia/Imagenes/Tartas/creaciones/redvelvet1.png", 
         "prices": { "small": 30, "medium": 45, "large": 70 } 
-    }
+    },
+    { 
+        "id": 10, 
+        "name": "Bombones", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/bombones.png", 
+        "prices": { "small": 25, "medium": 35, "large": 45 } 
+    },
+    { 
+        "id": 11, 
+        "name": "Cupcake rellenos", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/cupcake rosa dentro.png", 
+        "prices": { "small": 15, "medium": 25, "large": 35 } 
+    },
+    { 
+        "id": 12, 
+        "name": "Tarta chocolate", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/delci-grebin-mallmann.png", 
+        "prices": { "small": 45, "medium": 65, "large": 80 } 
+    },
+    { 
+        "id": 13, 
+        "name": "Tarta letras", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/tarta sable2.png", 
+        "prices": { "small": 30, "medium": 48, "large": 56 } 
+    },
+    { 
+        "id": 14, 
+        "name": "Tarta mascarpone", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/tarta sable2.png", 
+        "prices": { "small": 45, "medium": 65, "large": 80 } 
+    },
+    { 
+        "id": 15, 
+        "name": "Tarta unicornio", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/mascarpone.png", 
+        "prices": { "small": 45, "medium": 65, "large": 80 } 
+    },
+    { 
+        "id": 16, 
+        "name": "Tarta de macarons", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/macarons tarta.png", 
+        "prices": { "small": 35, "medium": 55, "large": 75 } 
+    },
+    { 
+        "id": 17, 
+        "name": "Berlinas glaseadas", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/donas2.png", 
+        "prices": { "small": 25, "medium": 45, "large": 65 } 
+    },
+    { 
+        "id": 18, 
+        "name": "Tarta frambuesa", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/frambuesa.png", 
+        "prices": { "small": 40, "medium": 60, "large": 75 } 
+    },
+    { 
+        "id": 19, 
+        "name": "Tarta funny", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/funny.png", 
+        "prices": { "small": 45, "medium": 65, "large": 80 } 
+    },
+    { 
+        "id": 20, 
+        "name": "Tarta sacher", 
+        "image": "../Multimedia/Imagenes/Tartas/tarta-sacher-7.png", 
+        "prices": { "small": 45, "medium": 65, "large": 80 } 
+    },
+    { 
+        "id": 21, 
+        "name": "Lemon pie", 
+        "image": "../Multimedia/Imagenes/Tartas/receta-de-lemon-pie.png", 
+        "prices": { "small": 25, "medium": 30, "large": 40 } 
+    },
+    { 
+        "id": 22, 
+        "name": "Tarta flores de mantequilla", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/tulipanes ramo.png", 
+        "prices": { "small": 40, "medium": 60, "large": 80 } 
+    },
+    { 
+        "id": 23, 
+        "name": "Tarta de fresa", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/unicornio.png", 
+        "prices": { "small": 25, "medium": 42, "large": 52 } 
+    },
+    { 
+        "id": 24, 
+        "name": "Saint honore (profiteroles)", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/saint honore.png", 
+        "prices": { "small": 35, "medium": 42, "large": 51 } 
+    },
 ]
