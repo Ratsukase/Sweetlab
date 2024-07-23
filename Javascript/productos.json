@@ -62,13 +62,13 @@
     { 
         "id": 11, 
         "name": "Cupcake rellenos", 
-        "image": "../Multimedia/Imagenes/Tartas/creaciones/cupcake rosa dentro.png", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/cupcake rosa dentro.jpg", 
         "prices": { "small": 15, "medium": 25, "large": 35 } 
     },
     { 
         "id": 12, 
         "name": "Tarta chocolate", 
-        "image": "../Multimedia/Imagenes/Tartas/creaciones/delci-grebin-mallmann.png", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/delci-grebin-mallmann.jpg", 
         "prices": { "small": 45, "medium": 65, "large": 80 } 
     },
     { 
@@ -80,19 +80,19 @@
     { 
         "id": 14, 
         "name": "Tarta mascarpone", 
-        "image": "../Multimedia/Imagenes/Tartas/creaciones/tarta sable2.png", 
-        "prices": { "small": 45, "medium": 65, "large": 80 } 
-    },
-    { 
-        "id": 15, 
-        "name": "Tarta unicornio", 
         "image": "../Multimedia/Imagenes/Tartas/creaciones/mascarpone.png", 
         "prices": { "small": 45, "medium": 65, "large": 80 } 
     },
     { 
+        "id": 15, 
+        "name": "Tarta charlota", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/charlota-bavaroise.jpg", 
+        "prices": { "small": 30, "medium": 43, "large": 50 } 
+    },
+    { 
         "id": 16, 
         "name": "Tarta de macarons", 
-        "image": "../Multimedia/Imagenes/Tartas/creaciones/macarons tarta.png", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/macarons tarta.jpg", 
         "prices": { "small": 35, "medium": 55, "large": 75 } 
     },
     { 
@@ -104,7 +104,7 @@
     { 
         "id": 18, 
         "name": "Tarta frambuesa", 
-        "image": "../Multimedia/Imagenes/Tartas/creaciones/frambuesa.png", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/frambuesa.jpg", 
         "prices": { "small": 40, "medium": 60, "large": 75 } 
     },
     { 
@@ -116,31 +116,31 @@
     { 
         "id": 20, 
         "name": "Tarta sacher", 
-        "image": "../Multimedia/Imagenes/Tartas/tarta-sacher-7.png", 
+        "image": "../Multimedia/Imagenes/Tartas/tarta-sacher-7.jpg", 
         "prices": { "small": 45, "medium": 65, "large": 80 } 
     },
     { 
         "id": 21, 
         "name": "Lemon pie", 
-        "image": "../Multimedia/Imagenes/Tartas/receta-de-lemon-pie.png", 
+        "image": "../Multimedia/Imagenes/Tartas/receta-de-lemon-pie.jpg", 
         "prices": { "small": 25, "medium": 30, "large": 40 } 
     },
     { 
         "id": 22, 
         "name": "Tarta flores de mantequilla", 
-        "image": "../Multimedia/Imagenes/Tartas/creaciones/tulipanes ramo.png", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/tulipanes ramo.jpg", 
         "prices": { "small": 40, "medium": 60, "large": 80 } 
     },
     { 
         "id": 23, 
         "name": "Tarta de fresa", 
-        "image": "../Multimedia/Imagenes/Tartas/creaciones/unicornio.png", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/mini-fraisier-2-copia.jpg", 
         "prices": { "small": 25, "medium": 42, "large": 52 } 
     },
     { 
         "id": 24, 
         "name": "Saint honore (profiteroles)", 
-        "image": "../Multimedia/Imagenes/Tartas/creaciones/saint honore.png", 
+        "image": "../Multimedia/Imagenes/Tartas/creaciones/saint honore.jpg", 
         "prices": { "small": 35, "medium": 42, "large": 80 } 
     }
 ]
